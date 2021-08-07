@@ -1,4 +1,4 @@
-# Code
+# Digit Recognizer
 
 # Datasets link- https://www.kaggle.com/c/digit-recognizer/data
 
